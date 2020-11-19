@@ -1,5 +1,6 @@
 body {
     background-color: #00AFB9;
+    font-family: 'Comic Neue', cursive;
 }
 
 .namedis {
@@ -53,5 +54,7 @@ body {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 30%;
+    width: 20%;
+    border: 5px solid black;
+    border-radius: 50px;
 }
